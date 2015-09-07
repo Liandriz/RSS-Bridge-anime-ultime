@@ -1,2 +1,3 @@
 # RSS-Bridge-anime-ultime
-Un bridge pour le site anime-ultime.net
+
+Un bridge RSS-Bridge (https://github.com/sebsauvage/rss-bridge) pour le site www.anime-ultime.net
